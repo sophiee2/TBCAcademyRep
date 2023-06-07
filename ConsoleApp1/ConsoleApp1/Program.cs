@@ -14,3 +14,6 @@ if (a < 0)
 {
     Console.WriteLine("Hot");
 }
+
+
+Console.ReadKey();
