@@ -1,0 +1,15 @@
+C:\Users\SGogashvili\Desktop\C#\Assigment3\davaleba2\bin\Debug\net6.0\davaleba2.exe
+C:\Users\SGogashvili\Desktop\C#\Assigment3\davaleba2\bin\Debug\net6.0\davaleba2.deps.json
+C:\Users\SGogashvili\Desktop\C#\Assigment3\davaleba2\bin\Debug\net6.0\davaleba2.runtimeconfig.json
+C:\Users\SGogashvili\Desktop\C#\Assigment3\davaleba2\bin\Debug\net6.0\davaleba2.dll
+C:\Users\SGogashvili\Desktop\C#\Assigment3\davaleba2\bin\Debug\net6.0\davaleba2.pdb
+C:\Users\SGogashvili\Desktop\C#\Assigment3\davaleba2\obj\Debug\net6.0\davaleba2.csproj.AssemblyReference.cache
+C:\Users\SGogashvili\Desktop\C#\Assigment3\davaleba2\obj\Debug\net6.0\davaleba2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SGogashvili\Desktop\C#\Assigment3\davaleba2\obj\Debug\net6.0\davaleba2.AssemblyInfoInputs.cache
+C:\Users\SGogashvili\Desktop\C#\Assigment3\davaleba2\obj\Debug\net6.0\davaleba2.AssemblyInfo.cs
+C:\Users\SGogashvili\Desktop\C#\Assigment3\davaleba2\obj\Debug\net6.0\davaleba2.csproj.CoreCompileInputs.cache
+C:\Users\SGogashvili\Desktop\C#\Assigment3\davaleba2\obj\Debug\net6.0\davaleba2.dll
+C:\Users\SGogashvili\Desktop\C#\Assigment3\davaleba2\obj\Debug\net6.0\refint\davaleba2.dll
+C:\Users\SGogashvili\Desktop\C#\Assigment3\davaleba2\obj\Debug\net6.0\davaleba2.pdb
+C:\Users\SGogashvili\Desktop\C#\Assigment3\davaleba2\obj\Debug\net6.0\davaleba2.genruntimeconfig.cache
+C:\Users\SGogashvili\Desktop\C#\Assigment3\davaleba2\obj\Debug\net6.0\ref\davaleba2.dll
