@@ -1,4 +1,4 @@
-﻿Console.WriteLine("please enter numbers as many as you want, it will sum only positive numbers");
+﻿Console.WriteLine("please firs enter how many number are you going to enter");
 
 
 int number = Convert.ToInt32(Console.ReadLine());
@@ -9,9 +9,11 @@ int[] arr =  new int[number];
 
 for (int i = 0; i < number; i++)
 {
+    arr[i] = Convert.ToInt32(Console.ReadLine());
     if (arr[i] > 0)
     {
-        sum+= arr[i];
+
+        sum += arr[i];
         avrgcounter++;
     }
 }
