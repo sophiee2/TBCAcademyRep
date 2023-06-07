@@ -1,7 +1,4 @@
-﻿
-using System;
-
-Console.Write("please Enter a number: ");
+﻿Console.Write("please Enter a number: ");
 string input = Console.ReadLine();
 int number;
 int count = 1;
