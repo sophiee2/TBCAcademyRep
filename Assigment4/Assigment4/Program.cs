@@ -3,11 +3,15 @@ int count,number;
 Int32.TryParse(Console.ReadLine(), out count);
 int [] myarr = new int[count];
 for (int i = 0; i < myarr.Length; i++)
-{    number=Int32.Parse(Console.ReadLine());
+{
+     Int32.TryParse(Console.ReadLine(),out number);
     myarr[i] = number;
-    i++;
-    Console.WriteLine(myarr[i])
+    //Console.WriteLine(myarr[i]);
 }
 
+foreach (var item in myarr)
+{
+    Console.WriteLine(item);
+}
 Console.ReadKey();
 

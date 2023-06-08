@@ -3,3 +3,13 @@ C:\Users\SGogashvili\Desktop\C#\Assigment4\Assigment4\obj\Debug\net6.0\Assigment
 C:\Users\SGogashvili\Desktop\C#\Assigment4\Assigment4\obj\Debug\net6.0\Assigment4.AssemblyInfoInputs.cache
 C:\Users\SGogashvili\Desktop\C#\Assigment4\Assigment4\obj\Debug\net6.0\Assigment4.AssemblyInfo.cs
 C:\Users\SGogashvili\Desktop\C#\Assigment4\Assigment4\obj\Debug\net6.0\Assigment4.csproj.CoreCompileInputs.cache
+C:\Users\SGogashvili\Desktop\C#\Assigment4\Assigment4\bin\Debug\net6.0\Assigment4.exe
+C:\Users\SGogashvili\Desktop\C#\Assigment4\Assigment4\bin\Debug\net6.0\Assigment4.deps.json
+C:\Users\SGogashvili\Desktop\C#\Assigment4\Assigment4\bin\Debug\net6.0\Assigment4.runtimeconfig.json
+C:\Users\SGogashvili\Desktop\C#\Assigment4\Assigment4\bin\Debug\net6.0\Assigment4.dll
+C:\Users\SGogashvili\Desktop\C#\Assigment4\Assigment4\bin\Debug\net6.0\Assigment4.pdb
+C:\Users\SGogashvili\Desktop\C#\Assigment4\Assigment4\obj\Debug\net6.0\Assigment4.dll
+C:\Users\SGogashvili\Desktop\C#\Assigment4\Assigment4\obj\Debug\net6.0\refint\Assigment4.dll
+C:\Users\SGogashvili\Desktop\C#\Assigment4\Assigment4\obj\Debug\net6.0\Assigment4.pdb
+C:\Users\SGogashvili\Desktop\C#\Assigment4\Assigment4\obj\Debug\net6.0\Assigment4.genruntimeconfig.cache
+C:\Users\SGogashvili\Desktop\C#\Assigment4\Assigment4\obj\Debug\net6.0\ref\Assigment4.dll
