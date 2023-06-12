@@ -1,0 +1,15 @@
+C:\Users\SGogashvili\Desktop\C#\Assigment5\Assigment5\bin\Debug\net6.0\Assigment5.exe
+C:\Users\SGogashvili\Desktop\C#\Assigment5\Assigment5\bin\Debug\net6.0\Assigment5.deps.json
+C:\Users\SGogashvili\Desktop\C#\Assigment5\Assigment5\bin\Debug\net6.0\Assigment5.runtimeconfig.json
+C:\Users\SGogashvili\Desktop\C#\Assigment5\Assigment5\bin\Debug\net6.0\Assigment5.dll
+C:\Users\SGogashvili\Desktop\C#\Assigment5\Assigment5\bin\Debug\net6.0\Assigment5.pdb
+C:\Users\SGogashvili\Desktop\C#\Assigment5\Assigment5\obj\Debug\net6.0\Assigment5.csproj.AssemblyReference.cache
+C:\Users\SGogashvili\Desktop\C#\Assigment5\Assigment5\obj\Debug\net6.0\Assigment5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SGogashvili\Desktop\C#\Assigment5\Assigment5\obj\Debug\net6.0\Assigment5.AssemblyInfoInputs.cache
+C:\Users\SGogashvili\Desktop\C#\Assigment5\Assigment5\obj\Debug\net6.0\Assigment5.AssemblyInfo.cs
+C:\Users\SGogashvili\Desktop\C#\Assigment5\Assigment5\obj\Debug\net6.0\Assigment5.csproj.CoreCompileInputs.cache
+C:\Users\SGogashvili\Desktop\C#\Assigment5\Assigment5\obj\Debug\net6.0\Assigment5.dll
+C:\Users\SGogashvili\Desktop\C#\Assigment5\Assigment5\obj\Debug\net6.0\refint\Assigment5.dll
+C:\Users\SGogashvili\Desktop\C#\Assigment5\Assigment5\obj\Debug\net6.0\Assigment5.pdb
+C:\Users\SGogashvili\Desktop\C#\Assigment5\Assigment5\obj\Debug\net6.0\Assigment5.genruntimeconfig.cache
+C:\Users\SGogashvili\Desktop\C#\Assigment5\Assigment5\obj\Debug\net6.0\ref\Assigment5.dll
