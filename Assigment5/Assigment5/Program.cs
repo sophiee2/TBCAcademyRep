@@ -44,12 +44,6 @@ int PrintSumOfIndexedNumber(int[] numberArr, int index)
     }
     return 0;
 }
-Console.WriteLine(PrintSumOfIndexedNumber(myArr, 2));
-Console.WriteLine();
 
-
-
-
- 
 
 Console.ReadKey();
