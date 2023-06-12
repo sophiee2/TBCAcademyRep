@@ -2,6 +2,8 @@
 using System.Data;
 
 Console.WriteLine("please fill array length");
+Console.WriteLine();
+Console.WriteLine();
 Int32.TryParse(Console.ReadLine(), out int length);
 
 int arrayLength = length;
@@ -10,6 +12,9 @@ char[] myArr = new char[length];
 
 char[] CharArray = FillCharMassive(myArr, length);
 
+Console.WriteLine();
+Console.WriteLine("Array");
+
 //print char massive
 foreach (char c in CharArray)
 {
@@ -17,7 +22,8 @@ foreach (char c in CharArray)
 }
 
 
-
+Console.WriteLine();
+Console.WriteLine("--------");
 
 
 
