@@ -3,3 +3,13 @@ C:\Users\SGogashvili\Desktop\C#\Assigment5\Task2\obj\Debug\net6.0\Task2.Generate
 C:\Users\SGogashvili\Desktop\C#\Assigment5\Task2\obj\Debug\net6.0\Task2.AssemblyInfoInputs.cache
 C:\Users\SGogashvili\Desktop\C#\Assigment5\Task2\obj\Debug\net6.0\Task2.AssemblyInfo.cs
 C:\Users\SGogashvili\Desktop\C#\Assigment5\Task2\obj\Debug\net6.0\Task2.csproj.CoreCompileInputs.cache
+C:\Users\SGogashvili\Desktop\C#\Assigment5\Task2\bin\Debug\net6.0\Task2.exe
+C:\Users\SGogashvili\Desktop\C#\Assigment5\Task2\bin\Debug\net6.0\Task2.deps.json
+C:\Users\SGogashvili\Desktop\C#\Assigment5\Task2\bin\Debug\net6.0\Task2.runtimeconfig.json
+C:\Users\SGogashvili\Desktop\C#\Assigment5\Task2\bin\Debug\net6.0\Task2.dll
+C:\Users\SGogashvili\Desktop\C#\Assigment5\Task2\bin\Debug\net6.0\Task2.pdb
+C:\Users\SGogashvili\Desktop\C#\Assigment5\Task2\obj\Debug\net6.0\Task2.dll
+C:\Users\SGogashvili\Desktop\C#\Assigment5\Task2\obj\Debug\net6.0\refint\Task2.dll
+C:\Users\SGogashvili\Desktop\C#\Assigment5\Task2\obj\Debug\net6.0\Task2.pdb
+C:\Users\SGogashvili\Desktop\C#\Assigment5\Task2\obj\Debug\net6.0\Task2.genruntimeconfig.cache
+C:\Users\SGogashvili\Desktop\C#\Assigment5\Task2\obj\Debug\net6.0\ref\Task2.dll
